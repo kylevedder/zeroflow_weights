@@ -16,3 +16,12 @@ arXiv link: [arxiv.org/abs/2305.10424](http://arxiv.org/abs/2305.10424)
     year      = {2023},
 }
 ```
+
+Weights labeled `supervised` are for FastFlow3D, trained with supervised annotations, and weights labeled `nsfp_distillation` or `chodosh_distillation` are ZeroFlow variants. The "official" model weights are
+
+ - ZeroFlow:
+   - Argo: three train runs of `argo/nsfp_distilatation_speed_scaled_updated*`
+   - Waymo: single train run of `waymo/nsfp_distilatation_scaled`
+ - FastFlow3D:
+   - Argo: three train runs of `argo/supervised{_run2, _run3}`
+   - Waymo: single train run of `waymo/supervised`
