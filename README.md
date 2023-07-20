@@ -1,4 +1,4 @@
-# Model Weights for [_ZeroFlow: Fast Zero Label Scene Flow via Distillation_](https://github.com/kylevedder/zeroflow)
+# Model Weights for [ZeroFlow: Fast Zero Label Scene Flow via Distillation](https://github.com/kylevedder/zeroflow)
 
 [Kyle Vedder](http://vedder.io), [Neehar Peri](http://www.neeharperi.com/), [Nathaniel Chodosh](https://scholar.google.com/citations?user=b4qKr7gAAAAJ&hl=en), [Ishan Khatri](https://ishan.khatri.io/), [Eric Eaton](https://www.seas.upenn.edu/~eeaton/), [Dinesh Jayaraman](https://www.seas.upenn.edu/~dineshj/), [Yang Liu](https://youngleox.github.io/), [Deva Ramanan](https://www.cs.cmu.edu/~deva/), and [James Hays](https://faculty.cc.gatech.edu/~hays/)
 
